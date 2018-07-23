@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1530685839 source:e:\competitive programming\c++\learnc++\main.cpp
+	<iostream>
+
+1530688180 source:e:\competitive programming\c++\learnc++\add.cpp
+
+1530688180 source:e:\competitive programming\c++\learnc++\multi_file_program\add.cpp
+
+1530768021 source:e:\competitive programming\c++\learnc++\multi_file_program\main.cpp
+	<iostream>
+
+1530688180 source:e:\competitive programming\c++\learnc++\creating_header_files\add.cpp
+
+1530768021 source:e:\competitive programming\c++\learnc++\creating_header_files\main.cpp
+	<iostream>
+
+1530773195 source:e:\competitive programming\c++\learnc++\3)header_guards\with header_guards.cpp
+	"math_with_header_guard.h"
+	"geometry_with_header_guard.h"
+
+1530772698 e:\competitive programming\c++\learnc++\3)header_guards\math_with_header_guard.h
+
+1530772786 e:\competitive programming\c++\learnc++\3)header_guards\geometry_with_header_guard.h
+	"math_with_header_guard.h"
+
+1530971835 source:e:\competitive programming\c++\learnc++\4)variable sizes\findvariablesizes.cpp
+	<iostream>
+
+1530981952 source:e:\competitive programming\c++\learnc++\4)variable sizes\char.cpp
+	<iostream>
+
+1531210827 source:e:\competitive programming\c++\learnc++\6)variable linkage\extern.cpp
+	<iostream>
+
+1531210929 source:e:\competitive programming\c++\learnc++\6)variable linkage\main.cpp
+	<iostream>
+
+1531222421 source:e:\competitive programming\c++\learnc++\8)using statement\program2.cpp
+	<iostream>
+
+1531329639 source:e:\competitive programming\c++\learnc++\9)enumerators\enumerator.cpp
+	<iostream>
+
+1532009089 source:e:\competitive programming\c++\learnc++\10)validating input\handling_invalid_input.cpp
+	<iostream>
+
