@@ -44,6 +44,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="11)Strings/strings2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="11)Strings/strings_basic.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -69,6 +73,19 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="15)Dynamic Memory Allocation/Dynamic_memory_allocation.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="15)Dynamic Memory Allocation/Dynamic_memory_allocation2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="16)Const Pointers/const_pointers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="17)Reference variables/ref.cpp" />
 		<Unit filename="2)Creating_Header_Files/add.cpp">
 			<Option compile="0" />
 			<Option link="0" />
