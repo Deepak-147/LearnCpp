@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main(void) {
     /*initialize a C-style string. */
     char myName[] = "Alex";
     std::cout << myName << "\n";

@@ -85,13 +85,28 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="17)Reference variables/ref.cpp" />
+		<Unit filename="17)Reference variables/ref.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="18)ForEach Loop/ForEach_loop.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="19)stdarray/stdarray.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="2)Creating_Header_Files/add.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
 		<Unit filename="2)Creating_Header_Files/add.h" />
 		<Unit filename="2)Creating_Header_Files/main.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="20)stdvector/stdvector.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>

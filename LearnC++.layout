@@ -2,14 +2,29 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="7)Namespaces\With Namespace\header1.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="4)Variable Sizes\Char.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="97" topLine="0" />
+			<Cursor1 position="329" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="16)Const Pointers\const_pointers.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="4)Variable Sizes\Overflow and Underflow.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1643" topLine="50" />
+			<Cursor1 position="1552" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="4)Variable Sizes\findVariableSizes.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="5)Variable Scope\LocalandGlobalScope.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="311" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="6)Variable Linkage\Static.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="673" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="6)Variable Linkage\global.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -17,9 +32,14 @@
 			<Cursor1 position="60" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="13)Arrays\Array1.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="6)Variable Linkage\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="574" topLine="5" />
+			<Cursor1 position="295" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="7)Namespaces\With Namespace\header1.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="7)Namespaces\With Namespace\header2.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -32,24 +52,9 @@
 			<Cursor1 position="1" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="17)Reference variables\ref.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="17)Reference variables\ref.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1616" topLine="38" />
-		</Cursor>
-	</File>
-	<File name="4)Variable Sizes\findVariableSizes.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1156" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="7)Namespaces\Without Namespace\header2.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="6" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="11)Strings\strings2.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="514" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="7)Namespaces\Without Namespace\header1.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -57,54 +62,14 @@
 			<Cursor1 position="7" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="7)Namespaces\Without Namespace\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="11)Strings\strings2.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="518" topLine="0" />
+			<Cursor1 position="542" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="15)Dynamic Memory Allocation\Dynamic_memory_allocation.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="7)Namespaces\Without Namespace\header2.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1415" topLine="10" />
-		</Cursor>
-	</File>
-	<File name="6)Variable Linkage\Static.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="673" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="15)Dynamic Memory Allocation\Dynamic_memory_allocation2.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="689" topLine="21" />
-		</Cursor>
-	</File>
-	<File name="1)Multi_File_Program\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="306" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="4)Variable Sizes\Overflow and Underflow.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1552" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="5)Variable Scope\LocalandGlobalScope.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="311" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="8)Using Statement\Program2.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="38" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="4)Variable Sizes\Char.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="329" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="11)Strings\strings_basic.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1298" topLine="16" />
+			<Cursor1 position="6" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="2)Creating_Header_Files\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -112,9 +77,19 @@
 			<Cursor1 position="1252" topLine="7" />
 		</Cursor>
 	</File>
-	<File name="6)Variable Linkage\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="7)Namespaces\Without Namespace\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="295" topLine="0" />
+			<Cursor1 position="518" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="11)Strings\strings_basic.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1091" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="8)Using Statement\Program2.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="8)Using Statement\UsingStatement.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -122,14 +97,24 @@
 			<Cursor1 position="262" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="3)Header_Guards\with Header_guards.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="15)Dynamic Memory Allocation\Dynamic_memory_allocation2.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="879" topLine="0" />
+			<Cursor1 position="689" topLine="21" />
 		</Cursor>
 	</File>
-	<File name="3)Header_Guards\without Header_guards.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="18)ForEach Loop\ForEach_loop.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="1" />
+			<Cursor1 position="1368" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="16)Const Pointers\const_pointers.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1643" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="13)Arrays\Array1.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="574" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="14)Pointers\Pointers1.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -137,14 +122,39 @@
 			<Cursor1 position="1106" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="14)Pointers\Pointers2.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="15)Dynamic Memory Allocation\Dynamic_memory_allocation.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="967" topLine="11" />
+			<Cursor1 position="1415" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="19)stdarray\stdarray.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1189" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="3)Header_Guards\math_with_header_guard.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="75" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="1)Multi_File_Program\main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="306" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="3)Header_Guards\with Header_guards.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="879" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="14)Pointers\Pointers2.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="967" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="3)Header_Guards\without Header_guards.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="1" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
