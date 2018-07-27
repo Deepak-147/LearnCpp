@@ -26,7 +26,7 @@ int main(void) {
     std::cout << &ref << "\n";
 
     /*
-    References to non-const values can only be initialized with non-const l-values.
+    References to non-const values can only be initialized with non-const l-values. As this will defeat the purpose of const, because if it is allowed the reference will be able to modify the const value.
     They can not be initialized with const l-values or r-values.
 
     int x = 5;
@@ -52,8 +52,6 @@ int main(void) {
     const int &ref2 = y; // okay, y is a const l-value
 
     const int &ref3 = 6; // okay, 6 is an r-value
-
-
 
     return 0;
 }

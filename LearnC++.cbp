@@ -73,6 +73,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="14)Pointers/References_to_pointer.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="15)Dynamic Memory Allocation/Dynamic_memory_allocation.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -107,6 +111,22 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="20)stdvector/stdvector.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="21)Argument Pass/pass_by_address.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="21)Argument Pass/pass_by_reference.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="21)Argument Pass/pass_by_value.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="22)Inline functions/inline.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
