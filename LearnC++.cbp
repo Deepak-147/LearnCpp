@@ -130,6 +130,34 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="23)Function Overloading/function_overloading.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="24)Default Parameters/default_parameters.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="25)Function Pointers/function_pointer3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="25)Function Pointers/function_pointer5.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="25)Function Pointers/function_pointers.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="25)Function Pointers/function_pointers2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="25)Function Pointers/function_pointers4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="3)Header_Guards/geometry.h" />
 		<Unit filename="3)Header_Guards/geometry_with_header_guard.h" />
 		<Unit filename="3)Header_Guards/math.h" />
@@ -187,6 +215,10 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="8)Using Statement/UsingStatement.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="8)Using Statement/typedef_and_typealias.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
