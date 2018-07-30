@@ -11,6 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
+				<Option parameters="Myfile.txt 1000" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -155,6 +156,22 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="25)Function Pointers/function_pointers4.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="26)Recursion/Recursion.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="26)Recursion/Recursion2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="26)Recursion/Recursion3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="27)Command Line Arguments/command_line_argument.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
