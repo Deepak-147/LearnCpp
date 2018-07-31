@@ -175,6 +175,22 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/Introduction.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/class_and_class_members.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/constructors.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/encapsulation.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="3)Header_Guards/geometry.h" />
 		<Unit filename="3)Header_Guards/geometry_with_header_guard.h" />
 		<Unit filename="3)Header_Guards/math.h" />
