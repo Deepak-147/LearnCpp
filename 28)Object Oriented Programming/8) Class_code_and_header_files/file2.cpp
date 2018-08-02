@@ -4,10 +4,10 @@ multiple projects. Classes are no different. Class definitions can be put in hea
 in multiple files or multiple projects. Traditionally, the class definition is put in a header file of the same name as
 the class, and the member functions defined outside of the class are put in a .cpp file of the same name as the class.
 
-So we have our main file named as class_code_and_header_files2.cpp
+So we have our main file named as file2.cpp
 Header file as Date.h
 and the function definitions in Date.cpp file.
-Be sure to keep both Date.cpp and class_code_and_header_files2.cpp file marked as both compile and link.
+Be sure to keep both Date.cpp and file2.cpp file marked as both compile and link.
 */
 
 #include <iostream>
