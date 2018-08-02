@@ -117,11 +117,11 @@ int main() {
     Hoo hoo3(2, 9.76);
     hoo3.display();
 
-    /*Initialization list. calls Hoo(int, float) constructor. */
+    /*Uniform initialization (C++11). calls Hoo(int, float) constructor. */
     Hoo hoo4 {2, 3.12};
     hoo4.display();
 
-    /*Uniform initialization (C++11). calls Hoo(int, float) constructor. */
+    /*Initialization list. calls Hoo(int, float) constructor. */
     Hoo hoo5 = {2, 3.12};
     hoo5.display();
 

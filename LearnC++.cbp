@@ -175,6 +175,11 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/Date.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/Date.h" />
 		<Unit filename="28)Object Oriented Programming/Introduction.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -183,11 +188,35 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/class_code_and_header_files.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/class_code_and_header_files2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/constructor_member_initializer_list.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="28)Object Oriented Programming/constructors.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/delegating_constructors.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/destructors.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="28)Object Oriented Programming/encapsulation.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/this_pointer.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
