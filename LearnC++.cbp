@@ -179,6 +179,30 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/10) Friend function/friend_function.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/10) Friend function/friend_function2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/11) Operator overloading/operator_overloading1.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/11) Operator overloading/operator_overloading2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/11) Operator overloading/operator_overloading3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/12) Copy constructor/copy_constructor.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="28)Object Oriented Programming/2) Class_and_class_members/class_and_class_members.cpp">
 			<Option compile="0" />
 			<Option link="0" />
