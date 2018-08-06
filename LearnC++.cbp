@@ -203,6 +203,74 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/Introduction.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/access_specifier.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/calling_inherited_functions.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/calling_inherited_functions2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/calling_inherited_functions3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/changing_access_levels.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/constructors_and_initialization_of_derived_classes.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/constructors_and_initialization_of_derived_classes2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/multiple_inheritance.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/order_of_construction_of_derived_classes.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/private_inheritance.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/13) Inheritance/public_inheritance.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/final.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/override.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/override2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/pointers_and_references_to_the_base_class_of_derived_objects.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/virtual_function.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="28)Object Oriented Programming/2) Class_and_class_members/class_and_class_members.cpp">
 			<Option compile="0" />
 			<Option link="0" />
