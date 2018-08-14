@@ -267,7 +267,23 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/pure_virtual_function.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/virtual_destructors.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/14) Virtual function/virtual_destructors2.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="28)Object Oriented Programming/14) Virtual function/virtual_function.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="28)Object Oriented Programming/15) Function Templates/function_template.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>

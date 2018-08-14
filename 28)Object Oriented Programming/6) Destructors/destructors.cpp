@@ -8,6 +8,12 @@ The destructor has no return type.
 Only one destructor may exist per class, as there is no way to overload destructors since they can not be differentiated
 from each other based on arguments.
 
+A destructor function is called automatically when the object goes out of scope:
+1) the function ends
+2) the program ends
+3) a block containing local variables ends
+4) a delete operator is called
+
 */
 #include<iostream>
 
